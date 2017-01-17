@@ -1,0 +1,6 @@
+{
+	"compilerOptions": {
+		"outFile": "../public/js/app.js",
+		"target": "es5"
+	}
+}
